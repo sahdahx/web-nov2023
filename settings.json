@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.editor.empty.hint": "hidden",
+    "discord.removeLowerDetails": true,
+    "window.zoomLevel": 1,
+    "php.debug.executablePath": ""
+}
